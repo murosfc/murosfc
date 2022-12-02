@@ -10,3 +10,4 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murosfc&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
+  ![Snake animation](https://github.com/murosfc/murosfc/blob/output/github-contribution-grid-snake.svg)
