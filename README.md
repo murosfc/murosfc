@@ -5,10 +5,9 @@
   <div>
   <a href="https://github.com/murosfc">
     <img height="220em" src="[https://github-readme-stats.vercel.app/api?username=murosfc&show_icons=true&theme=gruvbox&count_private=true"/>
-
     
    
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murosfc&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=murosfc&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ![Snake animation](https://github.com/murosfc/murosfc/blob/output/github-contribution-grid-snake.svg)
