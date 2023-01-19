@@ -4,10 +4,10 @@
 
   <div>
   <a href="https://github.com/murosfc">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=murosfc&count_private=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=murosfc&count_private=true&theme=gruvbox"/>
     
-   
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murosfc&layout=compact"/>
+   <br>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murosfc&layout=compact&count_private=true&theme=gruvbox"/"/>
 </div>
   
   ![Snake animation](https://github.com/murosfc/murosfc/blob/output/github-contribution-grid-snake.svg)
