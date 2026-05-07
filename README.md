@@ -41,17 +41,6 @@
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔹 Portfolio Website
-Meu portfolio profissional desenvolvido para apresentar projetos, experiências e tecnologias.
-
-**Stack:** Angular, TypeScript, Firebase
-
-🔗 https://murosfc.github.io/portfolio/
-
----
-
 ## 📫 Contato
 
 <p align="left">
