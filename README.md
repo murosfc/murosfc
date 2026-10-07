@@ -6,7 +6,7 @@
 
 🚀 Desenvolvendo aplicações modernas com foco em performance, escalabilidade e experiência do usuário.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=400&color=58A6FF&center=true&vCenter=true&width=1000&lines=FullStack+Developer;Python+%7C+FastAPI+%7C+Angular;TypeScript+%7C+Firebase+%7C+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=400&color=58A6FF&center=true&vCenter=true&width=1000&lines=FullStack+Developer;Python+%7C+FastAPI+%7C+Angular;C%23+%7C+.NET+Framework+%7C+ASP.NET+MVC;TypeScript+%7C+Flutter+%7C+Firebase)](https://git.io/typing-svg)
 
 ---
 
@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </p>
